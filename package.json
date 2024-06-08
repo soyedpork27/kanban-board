@@ -2,7 +2,7 @@
   "name": "kanban",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://soyedpork27.github.id/kanban-board/",
+  "homepage": "https://soyedpork27.github.io/kanban-board/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
